@@ -1,0 +1,12 @@
+
+.themeSwitcher>button {
+    padding: 5px;
+    background: transparent;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.themeSwitcher-dark>button {
+    color: white;
+    border: 1px solid white;
+}

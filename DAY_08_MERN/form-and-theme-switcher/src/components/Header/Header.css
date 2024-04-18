@@ -1,0 +1,14 @@
+
+.headerMain {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 0 10px black;
+}
+
+.headerMain-dark {
+    background-color: rgb(41, 40, 40);
+    color: white;
+    border-bottom: 1px solid rgb(85, 84, 84);
+}
